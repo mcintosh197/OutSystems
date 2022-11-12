@@ -4,7 +4,7 @@ These are some of the projects that I did when I was first learning OutSystems, 
 ### Exercises
 Most of the screens in the exercises oml are self-explanatory and haven't been built out much. Again, this was when I was starting OutSystems and there are much more efficient ways of doing these things. 
 
-### Memory Game (Inside Exercises Oml)
+### Memory Game (Inside Exercises Oml) https://personal-co2xtgg0.outsystemscloud.com/Exercises/MemoryGame?_ts=638038803519114149
 This is a game in that you turn over some cards and if the cards are the same they stay turned over and if not they flip back. Each of the photos is in a random place each time and when you click shuffle again the placement of the photos will change so you can play the game multiple times. 
 
 ### Dynamic CSS/CSS (Inside Exercises Oml)
