@@ -24,5 +24,10 @@ Guy Sports News was a website I built to replicate Sky Sports News but built by 
 
 https://personal-co2xtgg0.outsystemscloud.com/LoginPage/MainSite
 
+### Quiz
+This was a simple quiz with three questions to practice some small things.
+
+https://personal-co2xtgg0.outsystemscloud.com/Exercises/QuizDB?_ts=638038827173584918
+
 ### Email
 This is self-explanatory and I was only using it to practice sending out emails when certain conditions were met in other applications
