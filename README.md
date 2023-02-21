@@ -4,6 +4,11 @@ These are some of the projects that I did when I was first learning OutSystems, 
 ### Exercises
 Most of the screens in the exercises oml are self-explanatory and haven't been built out much. Again, this was when I was starting OutSystems and there are much more efficient ways of doing these things. 
 
+### Fiasco Football Team (Inside Exercises Oml)
+This was a small project for my football team. We play every Monday 3 teams of 6 players. In the winter it's harder to get 18 people to play so I created an application that players can record results and see the league table as we play. There is also a player of the month page and a full admin page. I wanted it to be as simple as possible to use so there is no logins, just passwords on the buttons to get to the admin page. (It's suppose to be for mobile only)
+
+https://personal-co2xtgg0.outsystemscloud.com/Exercises/FiascoResults?_ts=638107868206255615
+
 ### Memory Game (Inside Exercises Oml) 
 This is a game in that you turn over some cards and if the cards are the same they stay turned over and if not they flip back. Each of the photos is in a random place each time and when you click shuffle again the placement of the photos will change so you can play the game multiple times. 
 
